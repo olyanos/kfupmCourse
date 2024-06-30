@@ -1,0 +1,1001 @@
+stud_id,gender,race/ethnicity,parental level of education,test preparation course,math score,reading score,writing score
+s1212,female,group B,bachelor's degree,none,72,72,74
+s1213,female,group C,some college,completed,69,90,88
+s1214,female,group B,master's degree,none,90,95,93
+s1215,male,group A,associate's degree,none,47,57,44
+s1216,male,group C,some college,none,76,78,75
+s1217,female,group B,associate's degree,none,71,83,78
+s1218,female,group B,some college,completed,88,95,92
+s1219,male,group B,some college,none,40,43,39
+s1220,male,group D,high school,completed,64,64,67
+s1221,female,group B,high school,none,38,60,50
+s1222,male,group C,associate's degree,none,58,54,52
+s1223,male,group D,associate's degree,none,40,52,43
+s1224,female,group B,high school,none,65,81,73
+s1225,male,group A,some college,completed,78,72,70
+s1226,female,group A,master's degree,none,50,53,58
+s1227,female,group C,some high school,none,69,75,78
+s1228,male,group C,high school,none,88,89,86
+s1229,female,group B,some high school,none,18,32,28
+s1230,male,group C,master's degree,completed,46,42,46
+s1231,female,group C,associate's degree,none,54,58,61
+s1232,male,group D,high school,none,66,69,63
+s1233,female,group B,some college,completed,65,75,70
+s1234,male,group D,some college,none,44,54,53
+s1235,female,group C,some high school,none,69,73,73
+s1236,male,group D,bachelor's degree,completed,74,71,80
+s1237,male,group A,master's degree,none,73,74,72
+s1238,male,group B,some college,none,69,54,55
+s1239,female,group C,bachelor's degree,none,67,69,75
+s1240,male,group C,high school,none,70,70,65
+s1241,female,group D,master's degree,none,62,70,75
+s1242,female,group D,some college,none,69,74,74
+s1243,female,group B,some college,none,63,65,61
+s1244,female,group E,master's degree,none,56,72,65
+s1245,male,group D,some college,none,40,42,38
+s1246,male,group E,some college,none,97,87,82
+s1247,male,group E,associate's degree,completed,81,81,79
+s1248,female,group D,associate's degree,none,74,81,83
+s1249,female,group D,some high school,none,50,64,59
+s1250,female,group D,associate's degree,completed,75,90,88
+s1251,male,group B,associate's degree,none,57,56,57
+s1252,male,group C,associate's degree,none,55,61,54
+s1253,female,group C,associate's degree,none,58,73,68
+s1254,female,group B,associate's degree,none,53,58,65
+s1255,male,group B,some college,completed,59,65,66
+s1256,female,group E,associate's degree,none,50,56,54
+s1257,male,group B,associate's degree,none,65,54,57
+s1258,female,group A,associate's degree,completed,55,65,62
+s1259,female,group C,high school,none,66,71,76
+s1260,female,group D,associate's degree,completed,57,74,76
+s1261,male,group C,high school,completed,82,84,82
+s1262,male,group E,some college,none,53,55,48
+s1263,male,group E,associate's degree,completed,77,69,68
+s1264,male,group C,some college,none,53,44,42
+s1265,male,group D,high school,none,88,78,75
+s1266,female,group C,some high school,completed,71,84,87
+s1267,female,group C,high school,none,33,41,43
+s1268,female,group E,associate's degree,completed,82,85,86
+s1269,male,group D,associate's degree,none,52,55,49
+s1270,male,group D,some college,completed,58,59,58
+s1271,female,group C,some high school,none,0,17,10
+s1272,male,group E,bachelor's degree,completed,79,74,72
+s1273,male,group A,some high school,none,39,39,34
+s1274,male,group A,associate's degree,none,62,61,55
+s1275,female,group C,associate's degree,none,69,80,71
+s1276,female,group D,some high school,none,59,58,59
+s1277,male,group B,some high school,none,67,64,61
+s1278,male,group D,some high school,none,45,37,37
+s1279,female,group C,some college,none,60,72,74
+s1280,male,group B,associate's degree,none,61,58,56
+s1281,female,group C,associate's degree,none,39,64,57
+s1282,female,group D,some college,completed,58,63,73
+s1283,male,group D,some college,completed,63,55,63
+s1284,female,group A,associate's degree,none,41,51,48
+s1285,male,group C,some high school,none,61,57,56
+s1286,male,group C,some high school,none,49,49,41
+s1287,male,group B,associate's degree,none,44,41,38
+s1288,male,group E,some high school,none,30,26,22
+s1289,male,group A,bachelor's degree,completed,80,78,81
+s1290,female,group D,some high school,completed,61,74,72
+s1291,female,group E,master's degree,none,62,68,68
+s1292,female,group B,associate's degree,none,47,49,50
+s1293,male,group B,high school,none,49,45,45
+s1294,male,group A,some college,completed,50,47,54
+s1295,male,group E,associate's degree,none,72,64,63
+s1296,male,group D,high school,none,42,39,34
+s1297,female,group C,some college,none,73,80,82
+s1298,female,group C,some college,none,76,83,88
+s1299,female,group D,associate's degree,none,71,71,74
+s1300,female,group A,some college,none,58,70,67
+s1301,female,group D,some high school,none,73,86,82
+s1302,female,group C,bachelor's degree,none,65,72,74
+s1303,male,group C,high school,none,27,34,36
+s1304,male,group C,high school,none,71,79,71
+s1305,male,group C,associate's degree,completed,43,45,50
+s1306,female,group B,some college,none,79,86,92
+s1307,male,group C,associate's degree,completed,78,81,82
+s1308,male,group B,some high school,completed,65,66,62
+s1309,female,group E,some college,completed,63,72,70
+s1310,female,group D,some college,none,58,67,62
+s1311,female,group D,bachelor's degree,none,65,67,62
+s1312,male,group B,some college,none,79,67,67
+s1313,male,group D,bachelor's degree,completed,68,74,74
+s1314,female,group D,associate's degree,none,85,91,89
+s1315,male,group B,high school,completed,60,44,47
+s1316,male,group C,some college,completed,98,86,90
+s1317,female,group C,some college,none,58,67,72
+s1318,female,group D,master's degree,none,87,100,100
+s1319,male,group E,associate's degree,completed,66,63,64
+s1320,female,group B,associate's degree,none,52,76,70
+s1321,female,group B,some high school,none,70,64,72
+s1322,female,group D,associate's degree,completed,77,89,98
+s1323,male,group C,high school,none,62,55,49
+s1324,male,group A,associate's degree,none,54,53,47
+s1325,female,group D,some college,none,51,58,54
+s1326,female,group E,bachelor's degree,completed,99,100,100
+s1327,male,group C,high school,none,84,77,74
+s1328,female,group B,bachelor's degree,none,75,85,82
+s1329,female,group D,bachelor's degree,none,78,82,79
+s1330,female,group D,some high school,none,51,63,61
+s1331,female,group C,some college,none,55,69,65
+s1332,female,group C,bachelor's degree,completed,79,92,89
+s1333,male,group B,associate's degree,completed,91,89,92
+s1334,female,group C,some college,completed,88,93,93
+s1335,male,group D,high school,none,63,57,56
+s1336,male,group E,some college,none,83,80,73
+s1337,female,group B,high school,none,87,95,86
+s1338,male,group B,some high school,none,72,68,67
+s1339,male,group D,some college,completed,65,77,74
+s1340,male,group D,master's degree,none,82,82,74
+s1341,female,group A,bachelor's degree,none,51,49,51
+s1342,male,group D,master's degree,none,89,84,82
+s1343,male,group C,some high school,completed,53,37,40
+s1344,male,group E,some college,completed,87,74,70
+s1345,female,group C,some college,completed,75,81,84
+s1346,male,group D,bachelor's degree,completed,74,79,75
+s1347,male,group C,bachelor's degree,none,58,55,48
+s1348,male,group B,some high school,completed,51,54,41
+s1349,male,group E,high school,none,70,55,56
+s1350,female,group C,associate's degree,none,59,66,67
+s1351,male,group D,some college,completed,71,61,69
+s1352,female,group D,some high school,none,76,72,71
+s1353,female,group C,some college,none,59,62,64
+s1354,female,group E,some college,completed,42,55,54
+s1355,male,group A,high school,none,57,43,47
+s1356,male,group D,some college,none,88,73,78
+s1357,female,group C,some college,none,22,39,33
+s1358,male,group B,some high school,none,88,84,75
+s1359,male,group C,associate's degree,none,73,68,66
+s1360,female,group D,bachelor's degree,completed,68,75,81
+s1361,male,group E,associate's degree,completed,100,100,93
+s1362,male,group A,some high school,completed,62,67,69
+s1363,male,group A,bachelor's degree,none,77,67,68
+s1364,female,group B,associate's degree,completed,59,70,66
+s1365,male,group D,bachelor's degree,none,54,49,47
+s1366,male,group D,some high school,none,62,67,61
+s1367,female,group C,some college,completed,70,89,88
+s1368,female,group E,high school,completed,66,74,78
+s1369,male,group B,some college,none,60,60,60
+s1370,female,group B,associate's degree,completed,61,86,87
+s1371,male,group D,associate's degree,none,66,62,64
+s1372,male,group B,associate's degree,completed,82,78,74
+s1373,female,group E,some college,completed,75,88,85
+s1374,male,group B,master's degree,none,49,53,52
+s1375,male,group C,high school,none,52,53,49
+s1376,female,group E,master's degree,none,81,92,91
+s1377,female,group C,bachelor's degree,completed,96,100,100
+s1378,male,group C,high school,completed,53,51,51
+s1379,female,group B,master's degree,completed,58,76,78
+s1380,female,group B,high school,completed,68,83,78
+s1381,female,group C,some college,completed,67,75,70
+s1382,male,group A,high school,completed,72,73,74
+s1383,male,group E,some high school,none,94,88,78
+s1384,female,group D,some college,none,79,86,81
+s1385,female,group C,associate's degree,none,63,67,70
+s1386,female,group C,bachelor's degree,completed,43,51,54
+s1387,female,group C,master's degree,completed,81,91,87
+s1388,female,group B,high school,completed,46,54,58
+s1389,female,group C,associate's degree,completed,71,77,77
+s1390,female,group B,master's degree,completed,52,70,62
+s1391,female,group D,some high school,completed,97,100,100
+s1392,male,group C,master's degree,completed,62,68,75
+s1393,female,group C,some college,none,46,64,66
+s1394,female,group E,high school,none,50,50,47
+s1395,female,group D,associate's degree,none,65,69,70
+s1396,male,group C,some high school,completed,45,52,49
+s1397,male,group C,associate's degree,completed,65,67,65
+s1398,male,group E,high school,none,80,76,65
+s1399,male,group D,some high school,completed,62,66,68
+s1400,male,group B,some high school,none,48,52,45
+s1401,female,group C,bachelor's degree,none,77,88,87
+s1402,female,group E,associate's degree,none,66,65,69
+s1403,male,group D,some college,completed,76,83,79
+s1404,female,group B,some high school,none,62,64,66
+s1405,male,group D,some college,completed,77,62,62
+s1406,female,group C,master's degree,completed,69,84,85
+s1407,male,group D,associate's degree,none,61,55,52
+s1408,male,group C,some high school,completed,59,69,65
+s1409,male,group E,high school,none,55,56,51
+s1410,female,group B,some college,none,45,53,55
+s1411,female,group B,bachelor's degree,none,78,79,76
+s1412,female,group C,associate's degree,completed,67,84,86
+s1413,female,group D,some college,none,65,81,77
+s1414,male,group C,associate's degree,none,69,77,69
+s1415,female,group B,associate's degree,none,57,69,68
+s1416,male,group C,some college,none,59,41,42
+s1417,male,group D,some high school,completed,74,71,78
+s1418,male,group E,bachelor's degree,none,82,62,62
+s1419,male,group E,high school,completed,81,80,76
+s1420,female,group B,some college,none,74,81,76
+s1421,female,group B,some college,none,58,61,66
+s1422,male,group D,some high school,completed,80,79,79
+s1423,male,group C,some college,none,35,28,27
+s1424,female,group C,high school,none,42,62,60
+s1425,male,group C,associate's degree,completed,60,51,56
+s1426,male,group E,high school,completed,87,91,81
+s1427,male,group B,some high school,completed,84,83,75
+s1428,female,group E,associate's degree,completed,83,86,88
+s1429,female,group C,high school,none,34,42,39
+s1430,male,group B,high school,none,66,77,70
+s1431,male,group B,some high school,completed,61,56,56
+s1432,female,group D,high school,completed,56,68,74
+s1433,male,group B,associate's degree,none,87,85,73
+s1434,female,group C,some high school,none,55,65,62
+s1435,male,group D,some high school,none,86,80,75
+s1436,female,group B,associate's degree,completed,52,66,73
+s1437,female,group E,master's degree,none,45,56,54
+s1438,female,group C,some college,none,72,72,71
+s1439,male,group D,high school,none,57,50,54
+s1440,male,group A,some high school,none,68,72,64
+s1441,female,group C,some college,completed,88,95,94
+s1442,male,group D,some college,none,76,64,66
+s1443,male,group C,associate's degree,none,46,43,42
+s1444,female,group B,bachelor's degree,none,67,86,83
+s1445,male,group E,some high school,none,92,87,78
+s1446,male,group C,bachelor's degree,completed,83,82,84
+s1447,male,group D,associate's degree,none,80,75,77
+s1448,male,group D,bachelor's degree,none,63,66,67
+s1449,female,group D,some high school,completed,64,60,74
+s1450,male,group B,some college,none,54,52,51
+s1451,male,group C,associate's degree,none,84,80,80
+s1452,male,group D,high school,completed,73,68,66
+s1453,female,group E,bachelor's degree,none,80,83,83
+s1454,female,group D,high school,none,56,52,55
+s1455,male,group E,some college,none,59,51,43
+s1456,male,group D,some high school,none,75,74,69
+s1457,male,group C,associate's degree,none,85,76,71
+s1458,male,group E,associate's degree,none,89,76,74
+s1459,female,group B,high school,completed,58,70,68
+s1460,female,group B,high school,none,65,64,62
+s1461,male,group C,high school,none,68,60,53
+s1462,male,group A,some high school,completed,47,49,49
+s1463,female,group D,some college,none,71,83,83
+s1464,female,group B,some high school,completed,60,70,70
+s1465,male,group D,master's degree,none,80,80,72
+s1466,male,group D,high school,none,54,52,52
+s1467,female,group E,some college,none,62,73,70
+s1468,female,group C,associate's degree,none,64,73,68
+s1469,male,group C,associate's degree,completed,78,77,77
+s1470,female,group B,some college,none,70,75,78
+s1471,female,group C,master's degree,completed,65,81,81
+s1472,female,group C,some high school,completed,64,79,77
+s1473,male,group C,some college,completed,79,79,78
+s1474,female,group C,some high school,none,44,50,51
+s1475,female,group E,high school,none,99,93,90
+s1476,male,group D,high school,none,76,73,68
+s1477,male,group D,some high school,none,59,42,41
+s1478,female,group C,bachelor's degree,none,63,75,81
+s1479,female,group D,high school,none,69,72,77
+s1480,female,group D,associate's degree,completed,88,92,95
+s1481,female,group E,some college,none,71,76,70
+s1482,male,group C,bachelor's degree,none,69,63,61
+s1483,male,group C,some college,none,58,49,42
+s1484,female,group D,associate's degree,none,47,53,58
+s1485,female,group D,some college,none,65,70,71
+s1486,male,group B,some college,completed,88,85,76
+s1487,male,group C,bachelor's degree,none,83,78,73
+s1488,female,group C,some high school,completed,85,92,93
+s1489,female,group E,high school,completed,59,63,75
+s1490,female,group C,some high school,none,65,86,80
+s1491,male,group B,bachelor's degree,none,73,56,57
+s1492,male,group D,high school,none,53,52,42
+s1493,male,group D,high school,none,45,48,46
+s1494,female,group D,bachelor's degree,none,73,79,84
+s1495,female,group D,some college,completed,70,78,78
+s1496,female,group B,some high school,none,37,46,46
+s1497,male,group B,associate's degree,completed,81,82,82
+s1498,male,group E,associate's degree,completed,97,82,88
+s1499,female,group B,some high school,none,67,89,82
+s1500,male,group B,bachelor's degree,none,88,75,76
+s1501,male,group E,some high school,completed,77,76,77
+s1502,male,group C,associate's degree,none,76,70,68
+s1503,male,group D,some high school,none,86,73,70
+s1504,male,group C,some high school,completed,63,60,57
+s1505,female,group E,bachelor's degree,none,65,73,75
+s1506,male,group D,high school,completed,78,77,80
+s1507,male,group B,associate's degree,none,67,62,60
+s1508,male,group A,some high school,completed,46,41,43
+s1509,male,group E,associate's degree,completed,71,74,68
+s1510,male,group C,high school,completed,40,46,50
+s1511,male,group D,associate's degree,none,90,87,75
+s1512,male,group A,some college,completed,81,78,81
+s1513,male,group D,some high school,none,56,54,52
+s1514,female,group C,associate's degree,completed,67,84,81
+s1515,male,group B,associate's degree,none,80,76,64
+s1516,female,group C,associate's degree,completed,74,75,83
+s1517,male,group A,some college,none,69,67,69
+s1518,male,group E,some college,completed,99,87,81
+s1519,male,group C,some high school,none,51,52,44
+s1520,female,group B,associate's degree,none,53,71,67
+s1521,female,group D,high school,none,49,57,52
+s1522,female,group B,associate's degree,none,73,76,80
+s1523,male,group B,bachelor's degree,none,66,60,57
+s1524,male,group D,bachelor's degree,completed,67,61,68
+s1525,female,group C,associate's degree,completed,68,67,69
+s1526,female,group C,bachelor's degree,completed,59,64,75
+s1527,male,group C,high school,none,71,66,65
+s1528,female,group D,master's degree,completed,77,82,91
+s1529,male,group C,associate's degree,none,83,72,78
+s1530,male,group B,bachelor's degree,none,63,71,69
+s1531,female,group D,associate's degree,none,56,65,63
+s1532,female,group C,high school,completed,67,79,84
+s1533,female,group E,high school,none,75,86,79
+s1534,female,group C,some college,none,71,81,80
+s1535,female,group C,some high school,none,43,53,53
+s1536,female,group C,high school,none,41,46,43
+s1537,female,group C,some college,none,82,90,94
+s1538,male,group C,some college,none,61,61,62
+s1539,male,group A,some college,none,28,23,19
+s1540,male,group C,associate's degree,completed,82,75,77
+s1541,female,group B,some high school,none,41,55,51
+s1542,male,group C,high school,none,71,60,61
+s1543,male,group C,associate's degree,none,47,37,35
+s1544,male,group E,associate's degree,completed,62,56,53
+s1545,male,group B,associate's degree,none,90,78,81
+s1546,female,group C,bachelor's degree,none,83,93,95
+s1547,female,group B,some college,none,61,68,66
+s1548,male,group D,some high school,completed,76,70,69
+s1549,male,group C,associate's degree,none,49,51,43
+s1550,female,group B,some high school,none,24,38,27
+s1551,female,group D,some high school,completed,35,55,60
+s1552,male,group C,high school,none,58,61,52
+s1553,female,group C,high school,none,61,73,63
+s1554,female,group B,high school,completed,69,76,74
+s1555,male,group D,associate's degree,completed,67,72,67
+s1556,male,group D,some college,none,79,73,67
+s1557,female,group C,high school,none,72,80,75
+s1558,male,group B,some college,none,62,61,57
+s1559,female,group C,bachelor's degree,completed,77,94,95
+s1560,male,group D,high school,none,75,74,66
+s1561,male,group E,associate's degree,none,87,74,76
+s1562,female,group B,bachelor's degree,none,52,65,69
+s1563,male,group E,some college,none,66,57,52
+s1564,female,group C,some college,completed,63,78,80
+s1565,female,group C,associate's degree,none,46,58,57
+s1566,female,group C,some college,none,59,71,70
+s1567,female,group B,bachelor's degree,none,61,72,70
+s1568,male,group A,associate's degree,none,63,61,61
+s1569,female,group C,some college,completed,42,66,69
+s1570,male,group D,some college,none,59,62,61
+s1571,female,group D,some college,none,80,90,89
+s1572,female,group B,high school,none,58,62,59
+s1573,male,group B,some high school,completed,85,84,78
+s1574,female,group C,some college,none,52,58,58
+s1575,female,group D,some high school,none,27,34,32
+s1576,male,group C,some college,none,59,60,58
+s1577,male,group A,bachelor's degree,completed,49,58,60
+s1578,male,group C,high school,completed,69,58,53
+s1579,male,group C,bachelor's degree,none,61,66,61
+s1580,female,group A,some high school,none,44,64,58
+s1581,female,group D,some high school,none,73,84,85
+s1582,male,group E,some college,none,84,77,71
+s1583,female,group C,some college,completed,45,73,70
+s1584,male,group D,some high school,none,74,74,72
+s1585,female,group D,some college,completed,82,97,96
+s1586,female,group D,bachelor's degree,none,59,70,73
+s1587,male,group E,associate's degree,none,46,43,41
+s1588,female,group D,some high school,none,80,90,82
+s1589,female,group D,master's degree,completed,85,95,100
+s1590,female,group A,some high school,none,71,83,77
+s1591,male,group A,bachelor's degree,none,66,64,62
+s1592,female,group B,associate's degree,none,80,86,83
+s1593,male,group C,associate's degree,completed,87,100,95
+s1594,male,group C,master's degree,none,79,81,71
+s1595,female,group E,some high school,none,38,49,45
+s1596,female,group A,some high school,none,38,43,43
+s1597,female,group E,some college,none,67,76,75
+s1598,female,group E,bachelor's degree,none,64,73,70
+s1599,female,group C,associate's degree,none,57,78,67
+s1600,female,group D,high school,none,62,64,64
+s1601,male,group D,master's degree,none,73,70,75
+s1602,male,group E,some high school,completed,73,67,59
+s1603,female,group D,some college,none,77,68,77
+s1604,male,group E,some college,none,76,67,67
+s1605,male,group C,associate's degree,completed,57,54,56
+s1606,female,group C,some high school,completed,65,74,77
+s1607,male,group A,high school,none,48,45,41
+s1608,female,group B,high school,none,50,67,63
+s1609,female,group C,associate's degree,none,85,89,95
+s1610,male,group B,some high school,none,74,63,57
+s1611,male,group D,some high school,none,60,59,54
+s1612,female,group C,some high school,completed,59,54,67
+s1613,male,group A,some college,none,53,43,43
+s1614,female,group A,some college,none,49,65,55
+s1615,female,group D,high school,completed,88,99,100
+s1616,female,group C,high school,none,54,59,62
+s1617,female,group C,some high school,none,63,73,68
+s1618,male,group B,associate's degree,completed,65,65,63
+s1619,female,group B,associate's degree,none,82,80,77
+s1620,female,group D,high school,completed,52,57,56
+s1621,male,group D,associate's degree,completed,87,84,85
+s1622,female,group D,master's degree,completed,70,71,74
+s1623,male,group E,some college,completed,84,83,78
+s1624,male,group D,associate's degree,none,71,66,60
+s1625,male,group B,some high school,completed,63,67,67
+s1626,female,group C,bachelor's degree,completed,51,72,79
+s1627,male,group E,high school,none,84,73,69
+s1628,male,group C,bachelor's degree,completed,71,74,68
+s1629,male,group C,associate's degree,none,74,73,67
+s1630,male,group D,some college,none,68,59,62
+s1631,male,group E,high school,completed,57,56,54
+s1632,female,group C,associate's degree,completed,82,93,93
+s1633,female,group D,high school,completed,57,58,64
+s1634,female,group D,master's degree,completed,47,58,67
+s1635,female,group A,some high school,completed,59,85,80
+s1636,male,group B,some college,none,41,39,34
+s1637,female,group C,some college,none,62,67,62
+s1638,male,group C,bachelor's degree,none,86,83,86
+s1639,male,group C,some high school,none,69,71,65
+s1640,male,group A,some high school,none,65,59,53
+s1641,male,group C,some high school,none,68,63,54
+s1642,male,group C,associate's degree,none,64,66,59
+s1643,female,group C,high school,none,61,72,70
+s1644,male,group C,high school,none,61,56,55
+s1645,female,group A,some high school,none,47,59,50
+s1646,male,group C,some high school,none,73,66,66
+s1647,male,group C,some college,completed,50,48,53
+s1648,male,group D,associate's degree,none,75,68,64
+s1649,male,group D,associate's degree,none,75,66,73
+s1650,male,group C,high school,none,70,56,51
+s1651,male,group D,some high school,completed,89,88,82
+s1652,female,group C,some college,completed,67,81,79
+s1653,female,group D,high school,none,78,81,80
+s1654,female,group A,some high school,none,59,73,69
+s1655,female,group B,associate's degree,none,73,83,76
+s1656,male,group A,some high school,none,79,82,73
+s1657,female,group C,some high school,completed,67,74,77
+s1658,male,group D,some college,none,69,66,60
+s1659,male,group C,high school,completed,86,81,80
+s1660,male,group B,high school,none,47,46,42
+s1661,male,group B,associate's degree,none,81,73,72
+s1662,female,group C,some college,completed,64,85,85
+s1663,female,group E,some college,none,100,92,97
+s1664,female,group C,associate's degree,none,65,77,74
+s1665,male,group C,some college,none,65,58,49
+s1666,female,group C,associate's degree,none,53,61,62
+s1667,male,group C,bachelor's degree,none,37,56,47
+s1668,female,group D,bachelor's degree,none,79,89,89
+s1669,male,group D,associate's degree,none,53,54,48
+s1670,female,group E,bachelor's degree,none,100,100,100
+s1671,male,group B,high school,completed,72,65,68
+s1672,male,group C,bachelor's degree,none,53,58,55
+s1673,male,group B,some college,none,54,54,45
+s1674,female,group E,some college,none,71,70,76
+s1675,female,group C,some college,none,77,90,91
+s1676,male,group A,bachelor's degree,completed,75,58,62
+s1677,female,group C,some college,none,84,87,91
+s1678,female,group D,associate's degree,none,26,31,38
+s1679,male,group A,high school,completed,72,67,65
+s1680,female,group A,high school,completed,77,88,85
+s1681,male,group C,some college,none,91,74,76
+s1682,female,group C,associate's degree,completed,83,85,90
+s1683,female,group C,high school,none,63,69,74
+s1684,female,group C,associate's degree,completed,68,86,84
+s1685,female,group D,some high school,none,59,67,61
+s1686,female,group B,associate's degree,completed,90,90,91
+s1687,female,group D,bachelor's degree,completed,71,76,83
+s1688,male,group E,bachelor's degree,completed,76,62,66
+s1689,male,group D,associate's degree,none,80,68,72
+s1690,female,group D,master's degree,none,55,64,70
+s1691,male,group E,associate's degree,none,76,71,67
+s1692,male,group B,high school,completed,73,71,68
+s1693,female,group D,associate's degree,none,52,59,56
+s1694,male,group C,some college,none,68,68,61
+s1695,male,group A,high school,none,59,52,46
+s1696,female,group B,associate's degree,none,49,52,54
+s1697,male,group C,high school,none,70,74,71
+s1698,male,group D,some college,none,61,47,56
+s1699,female,group C,associate's degree,none,60,75,74
+s1700,male,group B,some high school,completed,64,53,57
+s1701,male,group A,associate's degree,completed,79,82,82
+s1702,female,group A,associate's degree,none,65,85,76
+s1703,female,group C,associate's degree,none,64,64,70
+s1704,female,group C,some college,none,83,83,90
+s1705,female,group C,bachelor's degree,none,81,88,90
+s1706,female,group B,high school,none,54,64,68
+s1707,male,group D,high school,completed,68,64,66
+s1708,female,group C,some college,none,54,48,52
+s1709,female,group D,some college,completed,59,78,76
+s1710,female,group B,some high school,none,66,69,68
+s1711,male,group E,some college,none,76,71,72
+s1712,female,group D,master's degree,none,74,79,82
+s1713,female,group B,associate's degree,completed,94,87,92
+s1714,male,group C,some college,none,63,61,54
+s1715,female,group E,associate's degree,completed,95,89,92
+s1716,female,group D,master's degree,none,40,59,54
+s1717,female,group B,some high school,none,82,82,80
+s1718,male,group A,high school,none,68,70,66
+s1719,male,group B,bachelor's degree,none,55,59,54
+s1720,male,group C,master's degree,none,79,78,77
+s1721,female,group C,bachelor's degree,none,86,92,87
+s1722,male,group D,some college,none,76,71,73
+s1723,male,group A,some high school,none,64,50,43
+s1724,male,group D,some high school,none,62,49,52
+s1725,female,group B,some high school,completed,54,61,62
+s1726,female,group B,master's degree,completed,77,97,94
+s1727,female,group C,some high school,completed,76,87,85
+s1728,female,group D,some college,none,74,89,84
+s1729,female,group E,some college,completed,66,74,73
+s1730,female,group D,some high school,completed,66,78,78
+s1731,female,group B,high school,completed,67,78,79
+s1732,male,group D,some college,none,71,49,52
+s1733,female,group C,associate's degree,none,91,86,84
+s1734,male,group D,bachelor's degree,none,69,58,57
+s1735,male,group C,master's degree,none,54,59,50
+s1736,male,group C,high school,completed,53,52,49
+s1737,male,group E,some college,none,68,60,59
+s1738,male,group C,some high school,completed,56,61,60
+s1739,female,group C,high school,none,36,53,43
+s1740,female,group D,bachelor's degree,none,29,41,47
+s1741,female,group C,associate's degree,none,62,74,70
+s1742,female,group C,associate's degree,completed,68,67,73
+s1743,female,group C,some high school,none,47,54,53
+s1744,male,group E,associate's degree,completed,62,61,58
+s1745,female,group E,associate's degree,completed,79,88,94
+s1746,male,group B,high school,completed,73,69,68
+s1747,female,group C,bachelor's degree,completed,66,83,83
+s1748,male,group C,associate's degree,completed,51,60,58
+s1749,female,group D,high school,none,51,66,62
+s1750,male,group E,bachelor's degree,completed,85,66,71
+s1751,male,group A,associate's degree,completed,97,92,86
+s1752,male,group C,high school,completed,75,69,68
+s1753,male,group D,associate's degree,completed,79,82,80
+s1754,female,group C,associate's degree,none,81,77,79
+s1755,female,group D,associate's degree,none,82,95,89
+s1756,female,group D,master's degree,none,64,63,66
+s1757,male,group E,some high school,completed,78,83,80
+s1758,female,group A,some high school,completed,92,100,97
+s1759,male,group C,high school,completed,72,67,64
+s1760,female,group C,high school,none,62,67,64
+s1761,male,group C,master's degree,none,79,72,69
+s1762,male,group C,some high school,none,79,76,65
+s1763,male,group B,bachelor's degree,completed,87,90,88
+s1764,female,group B,associate's degree,none,40,48,50
+s1765,male,group D,some college,none,77,62,64
+s1766,male,group E,associate's degree,none,53,45,40
+s1767,female,group C,some college,none,32,39,33
+s1768,female,group C,associate's degree,completed,55,72,79
+s1769,male,group C,master's degree,none,61,67,66
+s1770,female,group B,associate's degree,none,53,70,70
+s1771,male,group D,some high school,none,73,66,62
+s1772,female,group D,some college,completed,74,75,79
+s1773,female,group C,some college,none,63,74,74
+s1774,male,group C,bachelor's degree,completed,96,90,92
+s1775,female,group D,some college,completed,63,80,80
+s1776,male,group B,bachelor's degree,none,48,51,46
+s1777,male,group B,associate's degree,none,48,43,45
+s1778,female,group E,bachelor's degree,completed,92,100,100
+s1779,female,group D,master's degree,completed,61,71,78
+s1780,male,group B,high school,none,63,48,47
+s1781,male,group D,bachelor's degree,none,68,68,67
+s1782,male,group B,some college,completed,71,75,70
+s1783,male,group A,bachelor's degree,none,91,96,92
+s1784,female,group C,some college,none,53,62,56
+s1785,female,group C,high school,completed,50,66,64
+s1786,female,group E,high school,none,74,81,71
+s1787,male,group A,associate's degree,completed,40,55,53
+s1788,male,group A,some college,completed,61,51,52
+s1789,female,group B,high school,none,81,91,89
+s1790,female,group B,some college,completed,48,56,58
+s1791,female,group D,master's degree,none,53,61,68
+s1792,female,group D,some high school,none,81,97,96
+s1793,female,group E,some high school,none,77,79,80
+s1794,female,group D,bachelor's degree,none,63,73,78
+s1795,female,group D,associate's degree,completed,73,75,80
+s1796,female,group D,some college,none,69,77,77
+s1797,female,group C,associate's degree,none,65,76,76
+s1798,female,group A,high school,none,55,73,73
+s1799,female,group C,bachelor's degree,none,44,63,62
+s1800,female,group C,some college,none,54,64,65
+s1801,female,group A,some high school,none,48,66,65
+s1802,male,group C,some college,none,58,57,54
+s1803,male,group A,some high school,none,71,62,50
+s1804,male,group E,bachelor's degree,none,68,68,64
+s1805,female,group E,high school,none,74,76,73
+s1806,female,group C,bachelor's degree,completed,92,100,99
+s1807,female,group C,bachelor's degree,completed,56,79,72
+s1808,male,group B,high school,none,30,24,15
+s1809,male,group A,some high school,none,53,54,48
+s1810,female,group D,high school,none,69,77,73
+s1811,female,group D,some high school,none,65,82,81
+s1812,female,group D,master's degree,none,54,60,63
+s1813,female,group C,high school,none,29,29,30
+s1814,female,group E,some college,none,76,78,80
+s1815,male,group D,high school,none,60,57,51
+s1816,male,group D,master's degree,completed,84,89,90
+s1817,male,group C,some high school,none,75,72,62
+s1818,female,group C,associate's degree,none,85,84,82
+s1819,female,group C,master's degree,none,40,58,54
+s1820,female,group E,some college,none,61,64,62
+s1821,female,group B,associate's degree,none,58,63,65
+s1822,male,group D,some college,completed,69,60,63
+s1823,female,group C,some college,none,58,59,66
+s1824,male,group C,bachelor's degree,completed,94,90,91
+s1825,female,group C,associate's degree,none,65,77,74
+s1826,female,group A,associate's degree,none,82,93,93
+s1827,female,group C,high school,none,60,68,72
+s1828,female,group E,bachelor's degree,none,37,45,38
+s1829,male,group D,bachelor's degree,none,88,78,83
+s1830,male,group D,master's degree,none,95,81,84
+s1831,male,group C,associate's degree,completed,65,73,68
+s1832,female,group C,high school,none,35,61,54
+s1833,male,group B,bachelor's degree,none,62,63,56
+s1834,male,group C,high school,completed,58,51,52
+s1835,male,group A,some college,completed,100,96,86
+s1836,female,group E,bachelor's degree,none,61,58,62
+s1837,male,group D,some college,completed,100,97,99
+s1838,male,group B,associate's degree,completed,69,70,63
+s1839,male,group D,associate's degree,none,61,48,46
+s1840,male,group D,some college,none,49,57,46
+s1841,female,group C,some high school,completed,44,51,55
+s1842,male,group D,some college,none,67,64,70
+s1843,male,group B,high school,none,79,60,65
+s1844,female,group B,bachelor's degree,completed,66,74,81
+s1845,female,group C,high school,none,75,88,85
+s1846,male,group D,some high school,none,84,84,80
+s1847,male,group A,high school,none,71,74,64
+s1848,female,group B,high school,completed,67,80,81
+s1849,female,group D,some high school,completed,80,92,88
+s1850,male,group E,some college,none,86,76,74
+s1851,female,group D,associate's degree,none,76,74,73
+s1852,male,group D,high school,none,41,52,51
+s1853,female,group D,associate's degree,completed,74,88,90
+s1854,female,group B,some high school,none,72,81,79
+s1855,female,group E,high school,completed,74,79,80
+s1856,male,group B,high school,none,70,65,60
+s1857,female,group B,bachelor's degree,completed,65,81,81
+s1858,female,group D,associate's degree,none,59,70,65
+s1859,female,group E,high school,none,64,62,68
+s1860,female,group B,high school,none,50,53,55
+s1861,female,group D,some college,completed,69,79,81
+s1862,male,group C,some high school,completed,51,56,53
+s1863,female,group A,high school,completed,68,80,76
+s1864,female,group D,some college,completed,85,86,98
+s1865,female,group A,associate's degree,completed,65,70,74
+s1866,female,group B,some high school,none,73,79,79
+s1867,female,group B,some college,none,62,67,67
+s1868,male,group C,associate's degree,none,77,67,64
+s1869,male,group D,some high school,none,69,66,61
+s1870,female,group D,associate's degree,none,43,60,58
+s1871,male,group D,associate's degree,none,90,87,85
+s1872,male,group C,some college,none,74,77,73
+s1873,male,group C,some high school,none,73,66,63
+s1874,female,group D,some college,none,55,71,69
+s1875,female,group C,high school,none,65,69,67
+s1876,male,group D,associate's degree,none,80,63,63
+s1877,female,group C,some high school,completed,50,60,60
+s1878,female,group C,some college,completed,63,73,71
+s1879,female,group B,bachelor's degree,none,77,85,87
+s1880,male,group C,some college,none,73,74,61
+s1881,male,group D,associate's degree,completed,81,72,77
+s1882,female,group C,high school,none,66,76,68
+s1883,male,group D,associate's degree,none,52,57,50
+s1884,female,group C,some college,none,69,78,76
+s1885,female,group C,associate's degree,completed,65,84,84
+s1886,female,group D,high school,completed,69,77,78
+s1887,female,group B,some college,completed,50,64,66
+s1888,female,group E,some college,completed,73,78,76
+s1889,female,group C,some high school,completed,70,82,76
+s1890,male,group D,associate's degree,none,81,75,78
+s1891,male,group D,some college,none,63,61,60
+s1892,female,group D,high school,none,67,72,74
+s1893,male,group B,high school,none,60,68,60
+s1894,male,group B,high school,none,62,55,54
+s1895,female,group C,some high school,completed,29,40,44
+s1896,male,group B,some college,completed,62,66,68
+s1897,female,group E,master's degree,completed,94,99,100
+s1898,male,group E,some college,completed,85,75,68
+s1899,male,group D,associate's degree,none,77,78,73
+s1900,male,group A,high school,none,53,58,44
+s1901,male,group E,some college,none,93,90,83
+s1902,female,group C,associate's degree,none,49,53,53
+s1903,female,group E,associate's degree,none,73,76,78
+s1904,female,group C,bachelor's degree,completed,66,74,81
+s1905,female,group D,associate's degree,none,77,77,73
+s1906,female,group C,some high school,none,49,63,56
+s1907,female,group D,some college,none,79,89,86
+s1908,female,group C,associate's degree,completed,75,82,90
+s1909,female,group A,bachelor's degree,none,59,72,70
+s1910,female,group D,associate's degree,completed,57,78,79
+s1911,male,group C,high school,none,66,66,59
+s1912,female,group E,bachelor's degree,completed,79,81,82
+s1913,female,group B,some high school,none,57,67,72
+s1914,male,group A,bachelor's degree,completed,87,84,87
+s1915,female,group D,some college,none,63,64,67
+s1916,female,group B,some high school,completed,59,63,64
+s1917,male,group A,bachelor's degree,none,62,72,65
+s1918,male,group D,high school,none,46,34,36
+s1919,male,group C,some college,none,66,59,52
+s1920,male,group D,high school,none,89,87,79
+s1921,female,group D,associate's degree,completed,42,61,58
+s1922,male,group C,some college,completed,93,84,90
+s1923,female,group E,some high school,completed,80,85,85
+s1924,female,group D,some college,none,98,100,99
+s1925,male,group D,master's degree,none,81,81,84
+s1926,female,group B,some high school,completed,60,70,74
+s1927,female,group B,associate's degree,completed,76,94,87
+s1928,male,group C,associate's degree,completed,73,78,72
+s1929,female,group C,associate's degree,completed,96,96,99
+s1930,female,group C,high school,none,76,76,74
+s1931,male,group E,associate's degree,completed,91,73,80
+s1932,female,group C,some college,none,62,72,70
+s1933,male,group D,some high school,completed,55,59,59
+s1934,female,group B,some high school,completed,74,90,88
+s1935,male,group C,high school,none,50,48,42
+s1936,male,group B,some college,none,47,43,41
+s1937,male,group E,some college,completed,81,74,71
+s1938,female,group E,associate's degree,completed,65,75,77
+s1939,male,group E,some high school,completed,68,51,57
+s1940,female,group D,high school,none,73,92,84
+s1941,male,group C,some college,none,53,39,37
+s1942,female,group B,associate's degree,completed,68,77,80
+s1943,male,group A,some high school,none,55,46,43
+s1944,female,group C,some college,completed,87,89,94
+s1945,male,group D,some high school,none,55,47,44
+s1946,female,group E,some college,none,53,58,57
+s1947,male,group C,master's degree,none,67,57,59
+s1948,male,group C,associate's degree,none,92,79,84
+s1949,female,group B,some college,completed,53,66,73
+s1950,male,group D,associate's degree,none,81,71,73
+s1951,male,group C,high school,none,61,60,55
+s1952,male,group D,bachelor's degree,none,80,73,72
+s1953,female,group A,associate's degree,none,37,57,56
+s1954,female,group C,high school,none,81,84,82
+s1955,female,group C,associate's degree,completed,59,73,72
+s1956,male,group B,some college,none,55,55,47
+s1957,male,group D,associate's degree,none,72,79,74
+s1958,male,group D,high school,none,69,75,71
+s1959,male,group C,some college,none,69,64,68
+s1960,female,group C,bachelor's degree,none,50,60,59
+s1961,male,group B,some college,completed,87,84,86
+s1962,male,group D,some high school,completed,71,69,68
+s1963,male,group E,some college,none,68,72,65
+s1964,male,group C,master's degree,completed,79,77,75
+s1965,female,group C,some high school,completed,77,90,85
+s1966,male,group C,associate's degree,none,58,55,53
+s1967,female,group E,associate's degree,none,84,95,92
+s1968,male,group D,some college,none,55,58,52
+s1969,male,group E,bachelor's degree,completed,70,68,72
+s1970,female,group D,some college,completed,52,59,65
+s1971,male,group B,some college,completed,69,77,77
+s1972,female,group C,high school,none,53,72,64
+s1973,female,group D,some high school,none,48,58,54
+s1974,male,group D,some high school,completed,78,81,86
+s1975,female,group B,high school,none,62,62,63
+s1976,male,group D,some college,none,60,63,59
+s1977,female,group B,high school,none,74,72,72
+s1978,female,group C,high school,completed,58,75,77
+s1979,male,group B,high school,completed,76,62,60
+s1980,female,group D,some high school,none,68,71,75
+s1981,male,group A,some college,none,58,60,57
+s1982,male,group B,high school,none,52,48,49
+s1983,male,group D,bachelor's degree,none,75,73,74
+s1984,female,group B,some high school,completed,52,67,72
+s1985,female,group C,bachelor's degree,none,62,78,79
+s1986,male,group B,some college,none,66,65,60
+s1987,female,group B,some high school,none,49,58,55
+s1988,female,group B,high school,none,66,72,70
+s1989,female,group C,some college,none,35,44,43
+s1990,female,group A,some college,completed,72,79,82
+s1991,male,group E,associate's degree,completed,94,85,82
+s1992,female,group D,associate's degree,none,46,56,57
+s1993,female,group B,master's degree,none,77,90,84
+s1994,female,group B,high school,completed,76,85,82
+s1995,female,group C,associate's degree,completed,52,59,62
+s1996,male,group C,bachelor's degree,completed,91,81,79
+s1997,female,group B,some high school,completed,32,51,44
+s1998,female,group E,some high school,none,72,79,77
+s1999,female,group B,some college,none,19,38,32
+s2000,male,group C,associate's degree,none,68,65,61
+s2001,female,group C,master's degree,none,52,65,61
+s2002,female,group B,high school,none,48,62,60
+s2003,female,group D,some college,none,60,66,70
+s2004,male,group D,high school,none,66,74,69
+s2005,male,group E,some high school,completed,89,84,77
+s2006,female,group B,high school,none,42,52,51
+s2007,female,group E,associate's degree,completed,57,68,73
+s2008,male,group D,high school,none,70,70,70
+s2009,female,group E,associate's degree,none,70,84,81
+s2010,male,group E,some college,none,69,60,54
+s2011,female,group C,associate's degree,none,52,55,57
+s2012,male,group C,some high school,completed,67,73,68
+s2013,male,group C,some high school,completed,76,80,73
+s2014,female,group E,associate's degree,none,87,94,95
+s2015,female,group B,some college,none,82,85,87
+s2016,female,group C,some college,none,73,76,78
+s2017,male,group A,some college,none,75,81,74
+s2018,female,group D,some college,none,64,74,75
+s2019,female,group E,high school,none,41,45,40
+s2020,male,group C,high school,none,90,75,69
+s2021,male,group B,bachelor's degree,none,59,54,51
+s2022,male,group A,some high school,none,51,31,36
+s2023,male,group A,high school,none,45,47,49
+s2024,female,group C,master's degree,completed,54,64,67
+s2025,male,group E,some high school,completed,87,84,76
+s2026,female,group C,high school,none,72,80,83
+s2027,male,group B,some high school,completed,94,86,87
+s2028,female,group A,bachelor's degree,none,45,59,64
+s2029,male,group D,bachelor's degree,completed,61,70,76
+s2030,female,group B,high school,none,60,72,68
+s2031,female,group C,some high school,none,77,91,88
+s2032,female,group A,some high school,completed,85,90,92
+s2033,female,group D,bachelor's degree,none,78,90,93
+s2034,male,group E,some college,completed,49,52,51
+s2035,female,group B,high school,none,71,87,82
+s2036,female,group C,some high school,none,48,58,52
+s2037,male,group C,high school,none,62,67,58
+s2038,female,group C,associate's degree,completed,56,68,70
+s2039,female,group C,some high school,none,65,69,76
+s2040,female,group D,some high school,completed,69,86,81
+s2041,male,group B,some high school,none,68,54,53
+s2042,female,group A,some college,none,61,60,57
+s2043,female,group C,bachelor's degree,completed,74,86,89
+s2044,male,group A,bachelor's degree,none,64,60,58
+s2045,female,group B,high school,completed,77,82,89
+s2046,male,group B,some college,none,58,50,45
+s2047,female,group C,high school,completed,60,64,74
+s2048,male,group E,high school,none,73,64,57
+s2049,female,group A,high school,completed,75,82,79
+s2050,male,group B,associate's degree,completed,58,57,53
+s2051,female,group C,associate's degree,none,66,77,73
+s2052,female,group D,high school,none,39,52,46
+s2053,male,group C,some high school,none,64,58,51
+s2054,female,group B,high school,completed,23,44,36
+s2055,male,group B,some college,completed,74,77,76
+s2056,female,group D,some high school,completed,40,65,64
+s2057,male,group E,master's degree,none,90,85,84
+s2058,male,group C,master's degree,completed,91,85,85
+s2059,male,group D,high school,none,64,54,50
+s2060,female,group C,high school,none,59,72,68
+s2061,male,group D,associate's degree,none,80,75,69
+s2062,male,group C,master's degree,none,71,67,67
+s2063,female,group A,high school,none,61,68,63
+s2064,female,group E,some college,none,87,85,93
+s2065,male,group E,some high school,none,82,67,61
+s2066,male,group C,some high school,none,62,64,55
+s2067,female,group B,bachelor's degree,none,97,97,96
+s2068,male,group B,some college,none,75,68,65
+s2069,female,group C,bachelor's degree,none,65,79,81
+s2070,male,group B,high school,completed,52,49,46
+s2071,male,group C,associate's degree,none,87,73,72
+s2072,female,group C,associate's degree,none,53,62,53
+s2073,female,group E,master's degree,none,81,86,87
+s2074,male,group D,bachelor's degree,completed,39,42,38
+s2075,female,group C,some college,completed,71,71,80
+s2076,male,group C,associate's degree,none,97,93,91
+s2077,male,group D,some college,completed,82,82,88
+s2078,male,group C,high school,none,59,53,52
+s2079,male,group B,associate's degree,none,61,42,41
+s2080,male,group E,associate's degree,completed,78,74,72
+s2081,male,group C,associate's degree,none,49,51,51
+s2082,male,group B,high school,none,59,58,47
+s2083,female,group C,some college,completed,70,72,76
+s2084,male,group B,associate's degree,completed,82,84,78
+s2085,male,group E,associate's degree,none,90,90,82
+s2086,female,group C,bachelor's degree,none,43,62,61
+s2087,male,group C,some college,none,80,64,66
+s2088,male,group D,some college,none,81,82,84
+s2089,male,group C,some high school,none,57,61,54
+s2090,female,group D,some high school,none,59,72,80
+s2091,female,group D,associate's degree,none,64,76,74
+s2092,male,group C,bachelor's degree,completed,63,64,66
+s2093,female,group E,bachelor's degree,completed,71,70,70
+s2094,female,group B,high school,none,64,73,71
+s2095,male,group D,bachelor's degree,none,55,46,44
+s2096,female,group E,associate's degree,none,51,51,54
+s2097,female,group C,associate's degree,completed,62,76,80
+s2098,female,group E,associate's degree,completed,93,100,95
+s2099,male,group C,high school,none,54,72,59
+s2100,female,group D,some college,none,69,65,74
+s2101,male,group D,high school,none,44,51,48
+s2102,female,group E,some college,completed,86,85,91
+s2103,female,group E,associate's degree,none,85,92,85
+s2104,female,group A,master's degree,none,50,67,73
+s2105,male,group D,some high school,completed,88,74,75
+s2106,female,group E,associate's degree,none,59,62,69
+s2107,female,group E,some high school,none,32,34,38
+s2108,male,group B,high school,none,36,29,27
+s2109,female,group B,some high school,completed,63,78,79
+s2110,male,group D,associate's degree,completed,67,54,63
+s2111,female,group D,some high school,completed,65,78,82
+s2112,male,group D,master's degree,none,85,84,89
+s2113,female,group C,master's degree,none,73,78,74
+s2114,female,group A,high school,completed,34,48,41
+s2115,female,group D,bachelor's degree,completed,93,100,100
+s2116,female,group D,some high school,none,67,84,84
+s2117,male,group D,some college,none,88,77,77
+s2118,male,group B,high school,none,57,48,51
+s2119,female,group D,some college,completed,79,84,91
+s2120,female,group C,bachelor's degree,none,67,75,72
+s2121,male,group E,bachelor's degree,completed,70,64,70
+s2122,male,group D,bachelor's degree,none,50,42,48
+s2123,female,group A,some college,none,69,84,82
+s2124,female,group C,bachelor's degree,completed,52,61,66
+s2125,female,group C,bachelor's degree,completed,47,62,66
+s2126,female,group B,associate's degree,none,46,61,55
+s2127,female,group E,some college,none,68,70,66
+s2128,male,group E,bachelor's degree,completed,100,100,100
+s2129,female,group C,high school,none,44,61,52
+s2130,female,group C,associate's degree,completed,57,77,80
+s2131,male,group B,some college,completed,91,96,91
+s2132,male,group D,high school,none,69,70,67
+s2133,female,group C,high school,none,35,53,46
+s2134,male,group D,high school,none,72,66,66
+s2135,female,group B,associate's degree,none,54,65,65
+s2136,male,group D,high school,none,74,70,69
+s2137,male,group E,some high school,completed,74,64,60
+s2138,male,group E,associate's degree,none,64,56,52
+s2139,female,group D,high school,completed,65,61,71
+s2140,male,group E,associate's degree,completed,46,43,44
+s2141,female,group C,some high school,none,48,56,51
+s2142,male,group C,some college,completed,67,74,70
+s2143,male,group D,some college,none,62,57,62
+s2144,male,group D,associate's degree,completed,61,71,73
+s2145,male,group C,bachelor's degree,completed,70,75,74
+s2146,male,group C,associate's degree,completed,98,87,90
+s2147,male,group D,some college,none,70,63,58
+s2148,male,group A,associate's degree,none,67,57,53
+s2149,female,group E,high school,none,57,58,57
+s2150,male,group D,some college,completed,85,81,85
+s2151,male,group D,some high school,completed,77,68,69
+s2152,male,group C,master's degree,completed,72,66,72
+s2153,female,group D,master's degree,none,78,91,96
+s2154,male,group C,high school,none,81,66,64
+s2155,male,group A,some high school,completed,61,62,61
+s2156,female,group B,high school,none,58,68,61
+s2157,female,group C,associate's degree,none,54,61,58
+s2158,male,group B,high school,none,82,82,80
+s2159,female,group D,some college,none,49,58,60
+s2160,male,group B,some high school,completed,49,50,52
+s2161,female,group E,high school,completed,57,75,73
+s2162,male,group E,high school,none,94,73,71
+s2163,female,group D,some college,completed,75,77,83
+s2164,female,group E,some high school,none,74,74,72
+s2165,male,group C,high school,completed,58,52,54
+s2166,female,group C,some college,none,62,69,69
+s2167,male,group E,associate's degree,none,72,57,62
+s2168,male,group C,some college,none,84,87,81
+s2169,female,group D,master's degree,none,92,100,100
+s2170,female,group D,high school,none,45,63,59
+s2171,male,group C,high school,none,75,81,71
+s2172,female,group A,some college,none,56,58,64
+s2173,female,group D,some high school,none,48,54,53
+s2174,female,group E,associate's degree,none,100,100,100
+s2175,female,group C,some high school,completed,65,76,75
+s2176,male,group D,some college,none,72,57,58
+s2177,female,group D,some college,none,62,70,72
+s2178,male,group A,some high school,completed,66,68,64
+s2179,male,group C,some college,none,63,63,60
+s2180,female,group E,associate's degree,none,68,76,67
+s2181,female,group B,bachelor's degree,none,75,84,80
+s2182,female,group D,bachelor's degree,none,89,100,100
+s2183,male,group C,some high school,completed,78,72,69
+s2184,female,group A,high school,completed,53,50,60
+s2185,female,group D,some college,none,49,65,61
+s2186,female,group A,some college,none,54,63,67
+s2187,female,group C,some college,completed,64,82,77
+s2188,male,group B,some college,completed,60,62,60
+s2189,male,group C,associate's degree,none,62,65,58
+s2190,male,group D,high school,completed,55,41,48
+s2191,female,group C,associate's degree,none,91,95,94
+s2192,female,group B,high school,none,8,24,23
+s2193,male,group D,some high school,none,81,78,78
+s2194,male,group B,some high school,completed,79,85,86
+s2195,female,group A,some college,completed,78,87,91
+s2196,female,group C,some high school,none,74,75,82
+s2197,male,group A,high school,none,57,51,54
+s2198,female,group C,associate's degree,none,40,59,51
+s2199,male,group E,some high school,completed,81,75,76
+s2200,female,group A,some high school,none,44,45,45
+s2201,female,group D,some college,completed,67,86,83
+s2202,male,group E,high school,completed,86,81,75
+s2203,female,group B,some high school,completed,65,82,78
+s2204,female,group D,associate's degree,none,55,76,76
+s2205,female,group D,bachelor's degree,none,62,72,74
+s2206,male,group A,high school,none,63,63,62
+s2207,female,group E,master's degree,completed,88,99,95
+s2208,male,group C,high school,none,62,55,55
+s2209,female,group C,high school,completed,59,71,65
+s2210,female,group D,some college,completed,68,78,77
+s2211,female,group D,some college,none,77,86,86
