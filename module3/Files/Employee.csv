@@ -1,0 +1,11 @@
+emp_id,Gender,Age,Sales,BMI,Income
+1,M,34,123,Normal,350
+2,F,40,114,Overweight,450
+3,F,37,135,Obesity,169
+4,M,30,139,Underweight,189
+5,F,44,117,Underweight,183
+6,M,36,121,Normal,80
+7,M,32,133,Obesity,166
+8,F,26,140,Normal,120
+9,M,32,133,Normal,75
+10,M,36,133,Underweight,40
